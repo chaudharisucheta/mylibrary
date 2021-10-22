@@ -1,0 +1,28 @@
+{
+  "books": [
+    {
+      "bookName": "qwertyuio",
+      "authorName": "sdfghjk",
+      "rating": "4",
+      "id": 3
+    },
+    {
+      "bookName": "poiuytr",
+      "authorName": "lkjhgf",
+      "rating": "2",
+      "id": 4
+    },
+    {
+      "bookName": "To Kill a Mockingbird",
+      "authorName": "Harper Lee",
+      "rating": "4",
+      "id": 6
+    },
+    {
+      "bookName": "Outliers",
+      "authorName": "Malcolm gladwell",
+      "rating": "4",
+      "id": 7
+    }
+  ]
+}
